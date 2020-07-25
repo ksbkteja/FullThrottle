@@ -23,6 +23,13 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.ant-modal{
+  width: 56% !important;
+}
+.ant-picker-calendar-mini{
+  width: 40% !important;
+  margin-left: 170px;
+}
 
 .App-link {
   color: #61dafb;
